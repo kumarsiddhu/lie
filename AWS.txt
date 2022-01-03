@@ -1,0 +1,13 @@
+step1 - configure AMI(selction of os as per client requirements )
+
+step2 - instance type(cpu ans memory )
+
+step3 -configure instance (giving network and subnet details )
+
+step4 -add storage 
+
+step5- add tags 
+
+step6- configure security gruop 
+
+step7- Review
